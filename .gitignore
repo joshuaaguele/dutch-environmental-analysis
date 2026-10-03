@@ -1,0 +1,9 @@
+data_raw/*
+!data_raw/README.md
+data/spatial/
+outputs/
+tables/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
