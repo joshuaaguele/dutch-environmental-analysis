@@ -1,0 +1,3 @@
+"analysis","municipalities","adjusted_rand_index","first_two_PC_percent"
+"Log-transformed drought",337,0.931921250556789,74.9607798406119
+"Highest drought excluded",336,0.997402332792262,70.7568097089698
